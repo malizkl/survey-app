@@ -11,8 +11,8 @@ const resultsHandler = async (req, res) => {
     // Retrieve data from redis
 
     auth({
-        token: "AYd_ACQgNjc2NTBjY2MtMGEwMS00NDQxLWIxOTEtOTRlOTU2MTdlNzViNDYxZmEyN2Y3M2JjNGQ2NGEyZDdkZjIwYjliZTdjNzc=",
-        url: "https://eu1-sweeping-adder-34687.upstash.io",
+        token: "AXprACQgODFmNjQyYTctYTU3My00MDU2LTk5YTYtZThjMWRiNmExMTAxZGJhOTE2YzE2MzQyNGFiZTg4MDNkZjAzMTZjNzJkNGU=",
+        url: "https://gusc1-dynamic-stingray-31339.upstash.io",
     });
 
     try {
